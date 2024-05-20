@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NupurSrivastava02
-- 👀 I’m interested in data science, data analytics, data visualizations, statistics, finance
+- 👀 I’m interested in data science, data analytics, database management, data visualizations, statistics, finance
 - 🌱 I’m currently learning everything AI/ML, data science
-- 💞️ I’m looking to collaborate on TBD
+- 💞️ I’m looking to collaborate on projects utilizing Machine Learning, Deep Learning and Natural Language Processing.
 - 📫 How to reach me srivastavanupur2019@gmail.com
 
 <!---
