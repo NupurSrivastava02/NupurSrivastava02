@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @NupurSrivastava02
-- 👀 I’m interested in data science, data analytics, database management, data visualizations, statistics, finance
-- 🌱 I’m currently learning everything AI/ML, data science
-- 💞️ I’m looking to collaborate on projects utilizing Machine Learning, Deep Learning and Natural Language Processing.
-- 📫 How to reach me srivastavanupur2019@gmail.com
+## 👋 Hi, I’m Nupur Srivastava
 
-<!---
-NupurSrivastava02/NupurSrivastava02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔍 I’m seeking **Data Scientist / Machine Learning / Data Engineer** roles.  
+I enjoy turning real-world data into insights, models, and decision-making tools.
+
+### 💡 Interests & Focus
+- Applied Machine Learning, Deep Learning, and Predictive Modeling  
+- Data Analysis, Visualization, and Statistical Inference  
+- Real-world datasets, end-to-end pipelines, and model deployment
+
+### 🧠 Currently Exploring
+- Advanced model training and optimization in PyTorch  
+- Model explainability & performance evaluation  
+- Real-time big data pipelines and production workflows  
+- **MCP (Model Context Protocol) and Agentic AI workflow design for autonomous systems**
+
+### 🤝 Open to Collaborations On
+- Machine Learning and Deep Learning projects  
+- Computer Vision & NLP experimentation  
+- Data storytelling and dashboard-based insights
+
+### 📫 Connect With Me
+**Email:** srivastavanupur2019@gmail.com  
+**LinkedIn:** https://linkedin.com/in/nupur-srivastava-ds  
+**GitHub:** (you’re already here 😊)
+
