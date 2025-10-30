@@ -12,7 +12,6 @@ I enjoy turning real-world data into insights, models, and decision-making tools
 - Advanced model training and optimization in PyTorch  
 - Model explainability & performance evaluation  
 - Real-time big data pipelines and production workflows  
-- **MCP (Model Context Protocol) and Agentic AI workflow design for autonomous systems**
 
 ### 🤝 Open to Collaborations On
 - Machine Learning and Deep Learning projects  
