@@ -9,7 +9,7 @@ I enjoy turning real-world data into insights, models, and decision-making tools
 - Real-world datasets, end-to-end pipelines, and model deployment
 
 ### 🧠 Currently Exploring
-- Model explainability & performance evaluation  
+- A/B Testing and Experimentation  
 - Real-time big data pipelines and production workflows  
 
 ### 🤝 Open to Collaborations On
