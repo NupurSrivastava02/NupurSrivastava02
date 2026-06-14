@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Nupur Srivastava
 
-🔍 I’m seeking **Data Scientist / Machine Learning / Data Engineer** roles.  
+🔍 I’m seeking **Product Data Scientist / Applied Data Scientist / Machine Learning Engineer** roles.  
 I enjoy turning real-world data into insights, models, and decision-making tools.
 
 ### 💡 Interests & Focus
